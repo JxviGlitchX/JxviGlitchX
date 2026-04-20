@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <h1>JxviGlitchX</h1>
   <p><i>Fullstack Developer · Systems · APIs</i></p>
@@ -43,8 +42,6 @@ Fullstack developer focused on **backend**, system design, and databases. Experi
 
 ### 🎯 Focus
 ` Backend Sólido ` · ` Sistemas Escalables ` · ` Bases de Datos `
-
----
 
 <div align="center">
   <h3>✉️ Contacto</h3>
