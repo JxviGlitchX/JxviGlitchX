@@ -1,52 +1,57 @@
-<div align="center">
-  <h1>JxviGlitchX</h1>
-  <p><i>Fullstack Developer · Systems · APIs</i></p>
-</div>
+                        JxviGlitchX
+            Fullstack Developer · Backend · Systems
+_______________________________________________________
 
----
+🇪🇸 Perfil
+Desarrollador Fullstack con enfoque en backend, diseño de sistemas 
+y bases de datos relacionales. Experiencia construyendo APIs REST...
 
-### 🇪🇸 Español
-Desarrollador Fullstack con enfoque en **backend**, diseño de sistemas y bases de datos. Experiencia en APIs REST, microservicios y aplicaciones web reales.
+🇺🇸 Profile
+Fullstack developer focused on backend, system design, and relational 
+databases. Experience building REST APIs...
+_______________________________________________________
 
-### 🇺🇸 English
-Fullstack developer focused on **backend**, system design, and databases. Experience building REST APIs, microservices, and real-world web applications.
+🧠 Stack
 
----
+ [ JavaScript ]  [ C# ]  [ PHP ]  [ SQL ]
+ [ Node.js ]    [ Express ]  [ .NET ]  [ React ]
+ [ MySQL ]      [ Git ]  [ GitHub ]
 
-### 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+*(Nota: Aquí cada [ texto ] se verá como una etiqueta de colores: 
+JavaScript en amarillo, Node en verde, React en azul celeste, etc.)*
+_______________________________________________________
 
----
+⚙️ Experiencia Técnica
 
-### 💼 Experience
-✔️ APIs REST & Microservicios  
-✔️ CRUDs complejos y relaciones (Ej. CURP)  
-✔️ Consultas SQL avanzadas  
-✔️ Arquitectura Backend & Integración Fullstack  
+• Desarrollo de APIs REST estructuradas
+• Implementación de microservicios (Node.js / Express)
+• Diseño de bases de datos relacionales
+• Consultas SQL complejas (joins, relaciones, optimización)
+• CRUDs avanzados con lógica de negocio
+• Integración frontend (React) con backend
+• Manejo de relaciones por CURP entre entidades
+_______________________________________________________
 
-### 🚀 Projects
-🔹 **Sistema de órdenes judiciales** — Gestión completa + SQL complejo.  
-🔹 **Microservicios** — APIs de ciudadanos, credenciales y domicilios.  
-🔹 **Sistema de tortillería** — Ventas e inventario.  
-🔹 **Apps Web** — React consumiendo APIs propias.  
+🚀 Proyectos Relevantes
 
-### 🎯 Focus
-` Backend Sólido ` · ` Sistemas Escalables ` · ` Bases de Datos `
+• Sistema de órdenes judiciales
+  Gestión de órdenes, personas y expedientes con consultas SQL complejas
 
-<div align="center">
-  <h3>✉️ Contacto</h3>
-  <a href="mailto:Javier7737302566@gmail.com">
-    <img src="https://img.shields.io/badge/Email-AQUI_TU_CORREO@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-```
+• APIs de ciudadanos, credenciales y domicilios
+  Arquitectura por microservicios con endpoints CRUD y relaciones entre tablas
+
+• Sistema de tortillería
+  Control de ventas, inventario y operaciones con integración frontend-backend
+
+• Aplicaciones web con React
+  Interfaces dinámicas conectadas a APIs REST
+_______________________________________________________
+
+🎯 Enfoque
+
+[Backend sólido] · [Sistemas escalables] · [Bases de datos]
+*(Nota: Aquí se verá con un fondo gris oscuro tipo código)*
+_______________________________________________________
+
+                  📬 Contacto / Contact
+                Javier7737302566@gmail.com
