@@ -46,6 +46,6 @@ Fullstack developer focused on **backend**, system design, and databases. Experi
 <div align="center">
   <h3>✉️ Contacto</h3>
   <a href="mailto:Javier7737302566@gmail.com">
-    <img src="https://img.shields.io/badge/Email-AQUI_TU_CORREO@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Javier7737302566@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
